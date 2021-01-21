@@ -34,3 +34,4 @@ Before that, I was co-owner and lead developer of CalderaWP. Before that, I was 
   - Built with React, Typescript and Blockstack.js.
   - [View Source](https://github.com/Shelob9/imaginary-shapes)
 - [WordPress Plugin Template](https://github.com/shelob9/wordpress-plugin)
+  - Use modern Javascript and PHP with testing and Docker ready to go.
