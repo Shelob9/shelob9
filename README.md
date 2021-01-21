@@ -2,8 +2,6 @@
 
 I am a PHP and JavaScript developer.
 
-Right now, I'm having fun working on [Digital Garden Builder](https://docs.digitalgardenbuilder.app).
-
 - Pronouns: (he/him)
 - [Website](https://joshpress.net)
 - [Digital Garden](https://code.joshpress.net)
@@ -16,7 +14,7 @@ Right now, I'm having fun working on [Digital Garden Builder](https://docs.digit
 - [My Posts on dev.to](https://dev.to)
 
 
-## What I've Built
+## What I'm Working On
 
 At [Saturday Drive](https://saturdaydrive.com/), I help the team who builds:
 
@@ -29,5 +27,10 @@ Before that, I was co-owner and lead developer of CalderaWP. Before that, I was 
 
 ### Other Projects
 
-I built [Imaginary Shapes](https://imaginaryshapes.com), a prioritization game.
+- [Digital Garden Builder](https://docs.digitalgardenbuilder.app).
+  - Built with React, Typescript, NextJS, MDX and the GitHub API.
+  - [View Source](https://github.com/Shelob9/digitial-garden-builder)
+- [Imaginary Shapes](https://imaginaryshapes.com), a prioritization game.
+  - Built with React, Typescript and Blockstack.js.
   - [View Source](https://github.com/Shelob9/imaginary-shapes)
+- [WordPress Plugin Template](https://github.com/shelob9/wordpress-plugin)
