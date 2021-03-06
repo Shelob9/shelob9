@@ -36,3 +36,5 @@ Before that, I was co-owner and lead developer of CalderaWP. Before that, I was 
   - [View Source](https://github.com/Shelob9/imaginary-shapes)
 - [WordPress Plugin Template](https://github.com/shelob9/wordpress-plugin)
   - Use modern Javascript and PHP with testing and Docker ready to go.
+- [Headless Mode](https://github.com/Shelob9/headless-mode/)
+  - A WordPress plugin for Headless WordPress sites.
