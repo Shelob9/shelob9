@@ -1,6 +1,6 @@
 # Hi I'm Josh 👋
 
-I am a PHP and JavaScript developer.
+I am a PHP and JavaScript developer. Currently, I am a lead web engineer at [10up](https://github.com/10up)
 
 - Pronouns: (he/him)
 - [Website](https://joshpress.net)
@@ -14,9 +14,10 @@ I am a PHP and JavaScript developer.
 - [My Posts on dev.to](https://dev.to)
 
 
-## What I'm Working On
+## What I've Worked On
 
-At [Saturday Drive](https://saturdaydrive.com/), I help the team who builds:
+
+At [Saturday Drive](https://saturdaydrive.com/), I helped the team who builds:
 
 - [Ninja Forms](https://ninjaforms.com)
 - [Caldera Forms](https://calderaforms.com)
