@@ -24,7 +24,7 @@ At [Saturday Drive](https://saturdaydrive.com/), I helped the team who builds:
   - [View Source](https://github.com/calderawp/caldera-forms)
 - [SendWP](https://sendwp.com)
 
-Before that, I was co-owner and lead developer of CalderaWP. Before that, I was community manager/ junior developer for the [Pods Framework](https://pods.io).
+Before that, I was co-owner and lead developer of CalderaWP, we developed Caldera Forms and other products before [Caldera Forms was aquired by Saturday Drive](https://wptavern.com/ninja-forms-parent-company-saturday-drive-acquires-calderawp). Before that, I was community manager/ junior developer for the [Pods Framework](https://pods.io).
 
 ### Other Projects
 
