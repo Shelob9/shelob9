@@ -1,10 +1,9 @@
 # Hi I'm Josh 👋
 
-I am a PHP and JavaScript developer. Currently, I am a lead web engineer at [10up](https://github.com/10up)
+I am a PHP and JavaScript developer
 
 - Pronouns: (he/him)
 - [Website](https://joshpress.net)
-- [Digital Garden](https://code.joshpress.net)
 - [Twitter](https://twitter.com/josh412)
 
 ## Learn
@@ -18,16 +17,11 @@ I am a PHP and JavaScript developer. Currently, I am a lead web engineer at [10u
 
 Currently, I am working on tools to help WordPress developers write quality code: [PluginMachine.app](https://pluginmachine.app/)
 
-At [Saturday Drive](https://saturdaydrive.com/), I helped the team who builds:
+## What I've Worked On
 
-- [Ninja Forms](https://ninjaforms.com)
-- [Caldera Forms](https://calderaforms.com)
-  - [View Source](https://github.com/calderawp/caldera-forms)
-- [SendWP](https://sendwp.com)
+Before that I worked at [10up](https://10up.com). Before that I worked at [Saturday Drive](https://saturdaydrive.com/), I helped the team who builds, [Ninja Forms](https://ninjaforms.com), [Caldera Forms](https://calderaforms.com) and [SendWP](https://sendwp.com).Before that, I was co-owner and lead developer of CalderaWP, we developed Caldera Forms and other products before [Caldera Forms was aquired by Saturday Drive](https://wptavern.com/ninja-forms-parent-company-saturday-drive-acquires-calderawp). Before that, I was community manager/ junior developer for the [Pods Framework](https://pods.io).
 
-Before that, I was co-owner and lead developer of CalderaWP, we developed Caldera Forms and other products before [Caldera Forms was aquired by Saturday Drive](https://wptavern.com/ninja-forms-parent-company-saturday-drive-acquires-calderawp). Before that, I was community manager/ junior developer for the [Pods Framework](https://pods.io).
-
-### Other Projects
+## Other Projects
 
 - [Digital Garden Builder](https://docs.digitalgardenbuilder.app).
   - Built with React, Typescript, NextJS, MDX and the GitHub API.
