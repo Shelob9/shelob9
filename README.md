@@ -15,7 +15,9 @@ I am a PHP and JavaScript developer
 
 ## What I've Worked On
 
-Currently, I am working on tools to help WordPress developers write quality code: [PluginMachine.app](https://pluginmachine.app/)
+- [Interintellect](https://interintellect.com/)
+- [TrustedLogin](https://www.trustedlogin.com/)
+- [PluginMachine.app](https://pluginmachine.app/)
 
 ## What I've Worked On
 
