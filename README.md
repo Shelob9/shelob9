@@ -11,13 +11,23 @@ I am a PHP and JavaScript developer
 - [Testing React, In and Around WordPress](https://react-wordpress-testing.joshpress.net/) 
 - [TypeScript Basics For WordPress Developers](https://pantheon.io/blog/typescript-wordpress-basics)
 - [My Posts on dev.to](https://dev.to)
+- [Setup ec2 instance for vscode Remote](https://gist.github.com/Shelob9/0e032880634d75eab0a24f9fad9ad3ea)
+
+### Templates
+
+- [Laravel App With Github devcontainer configured for Github codespaces](https://github.com/Shelob9/laravel-app)
+- [Bash Scripts For Configuring Linux For PHP and JavaScript Development](https://gist.github.com/Shelob9/f981e8fee4e80aec383442df7838de7e)
+
+### Other
+
+- [vsCode Extensions](https://gist.github.com/Shelob9/4106664a93429dd9d8582f8a717cd6e8)
 
 
-## What I've Worked On
+## What I'm Working On
 
-- [Interintellect](https://interintellect.com/)
-- [TrustedLogin](https://www.trustedlogin.com/)
-- [PluginMachine.app](https://pluginmachine.app/)
+- [Interintellect](https://interintellect.com/) - Online meeting hub for arts and ideas. Tech lead.
+- [TrustedLogin](https://www.trustedlogin.com/) - Passwordless-login for WordPress support teams. Engineer.
+- [PluginMachine.app](https://pluginmachine.app/) - Side project. Everything.
 
 ## What I've Worked On
 
