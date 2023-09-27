@@ -29,7 +29,7 @@ Software engineer and dog enthusiast
 
 - I work at [RVO Health](https://rvohealth.com/) where I help maintain the backend for several high traffic health and wellness websites.
 - [Protect Earth](https://www.protect.earth/) - I'm helping maintain [open source](https://github.com/protect-earth/) tools (iOS app and Laravel API server) for tracking tree plantings.
-- [PluginMachine.com](https://pluginmachine.com/) - [eBooks](https://pluginmachine.com/course/refactoring-wordpress-plugins/), [blog](Recent WordPress Tutorials](https://pluginmachine.com/blog/) and [open source](https://github.com/imaginarymachines) for WordPress developers.
+- [PluginMachine.com](https://pluginmachine.com/) - [eBook](https://pluginmachine.com/course/refactoring-wordpress-plugins/), [Recent WordPress Tutorials](https://pluginmachine.com/blog/). [plugins](https://pluginmachine.com/plugin-machine-plugins/) and [open source](https://github.com/imaginarymachines) for WordPress developers.
 
 ## What I've Worked On
 
